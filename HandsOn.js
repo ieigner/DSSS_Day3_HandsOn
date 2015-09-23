@@ -1,0 +1,1 @@
+var events = JSON.parse(events.json);
