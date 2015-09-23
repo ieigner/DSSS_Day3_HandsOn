@@ -12,4 +12,4 @@ s.onload=function(){
         $('<li>There are '+dt.length+' events in Berlin.</li>').appendTo(events)
     }
 }
-}
+} 
